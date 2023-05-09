@@ -1,0 +1,36 @@
+
+.navbar {
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    top: 0;
+    border-width: 0 0 1px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    background-color: #462929;
+    border-color: #462929;
+}
+.navbar-brand{
+    color: white;
+    position: fixed;
+    left: 80px;
+    top: 15px;
+    font-size: 20px;
+}
+.navbar-home{
+    left: 200px;
+    color: white;
+    position: fixed;
+    top: 20px;
+    font-size: 15px;
+
+}
+.navbar-about{
+    left: 300px;
+    color: white;
+    position: fixed;
+    top: 20px;
+    font-size: 15px;
+}

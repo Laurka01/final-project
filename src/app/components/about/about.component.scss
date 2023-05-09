@@ -1,0 +1,24 @@
+.navbar-about{
+    left: 300px;
+    color: white;
+    position: fixed;
+    top: 20px;
+    font-size: 15px;
+}
+.about {
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    top: 0;
+    border-width: 0 0 1px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+p{
+    color: white;
+    top:150px;
+    left: 200px;
+    position: fixed;
+}
